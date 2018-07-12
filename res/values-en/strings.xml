@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+      <string name="T_TpsAnim">Animation:\'s duration: </string>
+  <string name="CB_TirageExclusif">Take the result out of the pool</string>
+      <string name="edit_list">Edit the list</string>
+    <string name="mes_listes">My lists</string>
+    <string name="menu_about">Help and About</string>
+  <string name="action_spinner">Existing lists</string>
+      <string name="B_AjManuel">Add</string>
+             <string name="B_Fin">Done</string>
+                        <string name="input_nomlist">Name of the list without , / \' et Espace</string>
+             <string name="favoris">Favorite</string>
+             <string name="creer_list">Create a new list</string>
+             <string name="ET_Result">Result</string>
+                                     <string name="Ajouter">Add</string>
+             <string name="Supp">Delete</string>
+              <string name="Editer">Edit</string>
+              <string name="Desactiver">Disable</string>
+                 <string name="ET_NomList">List\'s name</string>
+                 <string name="editer_list">Edit the list</string>
+                         <string name="Ajouter_liste">Add</string>
+    <string name="Supp_liste">Delete</string>
+    <string name="Editer_list">Edit</string>
+    <string name="Desactiver_list">Disable</string>
+     <string name="title_activity_ajout_contact">Add contacts</string>
+         <string name="Login">Login</string>
+</resources>
