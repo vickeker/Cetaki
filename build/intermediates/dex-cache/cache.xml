@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b5b869e1c1671183353a183e7f9918105d3a047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48a8ee949991121820ca7c7bbd98e5d7db0300d8">
+        <dex dex="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_656d66a1fca6424fc4841e80e28e92aff0fb65f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_21a5e08cb86b2edae962aaa61d9a5e0a8452e54c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.android\build-cache\10c9839b66280612ba0623d3bc8ee0ee4f88a676\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\pre-dexed\debug\classes_62de915c72fcad7ad09d27031995fae856f47343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.android\build-cache\10c9839b66280612ba0623d3bc8ee0ee4f88a676\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Victor\Desktop\Cetaki\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_49cac01dcd73b15cbd48ec8ad63135480351ee71.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_edit.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\contact_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_edit.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\list_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mes_listes.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\activity_mes_listes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\createaccount.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\createaccount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\creer_liste1.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\creer_liste1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editer_list.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\editer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

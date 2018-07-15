@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cetaki="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="keker.cetaki.MainActivity"
+     >
+
+    <item
+        android:id="@+id/action_spinner"
+        android:actionViewClass="android.widget.Spinner"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_spinner"/>
+    
+    <item
+        android:id="@+id/edit_list"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="ifRoom"
+        android:title="@string/edit_list"/>
+    
+        <item
+        android:id="@+id/creer_list"
+        android:icon="@drawable/ic_action_add_group"
+        android:showAsAction="ifRoom"
+        android:title="@string/creer_list"/>
+    
+    <item
+        android:id="@+id/mes_listes"
+        android:icon="@drawable/ic_action_collection"
+        android:showAsAction="ifRoom"
+        android:title="@string/mes_listes"/>
+    
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@drawable/ic_action_about"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_about"/>
+
+</menu>

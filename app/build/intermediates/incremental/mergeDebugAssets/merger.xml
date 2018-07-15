@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Victor\.android\build-cache\10c9839b66280612ba0623d3bc8ee0ee4f88a676\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Victor\Dev\Cetaki\app\src\main\assets"><file name="themes" path="C:\Users\Victor\Dev\Cetaki\app\src\main\assets\themes"/></source><source path="C:\Users\Victor\Dev\Cetaki\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Victor\Dev\Cetaki\app\src\debug\assets"/></dataSet></merger>

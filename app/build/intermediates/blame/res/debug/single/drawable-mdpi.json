@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_collection.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_about.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\silhouette.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\silhouette.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_accept.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fond_arcenciel.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\fond_arcenciel.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_favorite.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_action_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_add_group.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_edit.png",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\drawable-mdpi\\ic_action_edit.png"
+    }
+]

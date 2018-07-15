@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mes_listes.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\menu\\mes_listes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_menu.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\menu\\edit_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\menu\\creer_menu.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\menu\\creer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Victor\\Dev\\Cetaki\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
